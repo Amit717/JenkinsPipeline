@@ -6,10 +6,10 @@ package com.example.javamavenjunithelloworld;
  */
 public class HelloApp {
 
-    private static int DEFAULT_TIMES = 3;
+    public static int DEFAULT_TIMES = 3;
 
-    private static int EXIT_STATUS_PARAMETER_NOT_UNDERSTOOD = 2;
-    private static int EXIT_STATUS_HELLO_FAILED = 4;
+    public static int EXIT_STATUS_PARAMETER_NOT_UNDERSTOOD = 2;
+    public static int EXIT_STATUS_HELLO_FAILED = 4;
 
     /**
      * The main method of this program.
